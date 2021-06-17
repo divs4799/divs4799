@@ -2,7 +2,7 @@
 - 👀 I’m interested in Projects in Web devlopment
 - 🌱 I’m currently learning ReactJs and React Native
 - 💞️ I’m looking to collaborate on any website for Which we can work
-- 📫 How to reach me: Just mention in any comment.
+- 📫 How to reach me: Just mention in any comment or Mail via the given Email.
 
 <!---
 divs4799/divs4799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
